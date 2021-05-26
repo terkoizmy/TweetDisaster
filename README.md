@@ -6,5 +6,5 @@ This Project has been create for kaggle competion training from [this](https://w
 * modeling (xgboost & random forest)
 ## With LSTM
 * Text processing(lemmatizer & Stop wrord)
-* Embedding text with glove (word2vec
+* Embedding text with glove (word2vec)
 * Using LSTM layer for deep learning train model
